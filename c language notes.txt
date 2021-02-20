@@ -1,0 +1,9 @@
+A computer progamn should be meaningful and complete and it should be
+sequential finite and acureate.
+each of the instrouction set is known as a command. And the set is known as program.
+Main Data Types of C
+Chracheters
+integeters
+floating point numbers
+1.Application Software
+2.System Software
